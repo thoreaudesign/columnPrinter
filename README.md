@@ -6,6 +6,7 @@ This applicaiton represents a solution to a coding challenge. It takes a string 
 * java 1.8 or higher
 ## Build
     git clone https://github.com/thoreaudesign/columnPrinter.git  
+    cd columnPrinter/
     maven install  
     java -jar target/columnPrinter-1.0.0.jar "some text to print as column"
 # Challege Description
