@@ -7,7 +7,7 @@ This applicaiton represents a solution to a coding challenge. It takes a string 
 ## Build
     git clone https://github.com/thoreaudesign/columnPrinter.git  
     maven install  
-    java -jar target/columnPrinter-1.0.0.jar  
+    java -jar target/columnPrinter-1.0.0.jar "some text to print as column"
 # Challege Description
 > **Text Wrap Problem**
 >  
