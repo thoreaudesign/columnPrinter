@@ -5,9 +5,9 @@ This applicaiton represents a solution to a coding challenge. It takes a string 
 * maven
 * java 1.8 or higher
 ## Build
-    `git clone https://github.com/thoreaudesign/columnPrinter.git` 
-    `maven install`
-    `java -jar target/columnPrinter-1.0.0.jar`
+    git clone https://github.com/thoreaudesign/columnPrinter.git  
+    maven install  
+    java -jar target/columnPrinter-1.0.0.jar  
 # Challege Description
 > **Text Wrap Problem**
 >  
