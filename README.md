@@ -1,8 +1,16 @@
 # columnPrinter
-This applicaiton represents a solution to a coding challenge. It takes a string as an argument and reprints the string as a column with a width of 13 characters without breaking words. 
+This applicaiton represents a solution to a coding challenge. It takes a string as an argument and reprints the string as a column with a width of 13 characters without breaking words.
+## Dependencies
+* git
+* maven
+* java 1.8 or higher
 ## Build
-1. Clone the repository: `https://github.com/thoreaudesign/columnPrinter.git`
-1. 
+1. Clone repository: 
+    `https://github.com/thoreaudesign/columnPrinter.git`
+1. Build using maven: 
+    `maven install`
+1. Execute: 
+    `java -jar target/columnPrinter-1.0.0.jar`
 # Challege Description
 > **Text Wrap Problem**
 >  
