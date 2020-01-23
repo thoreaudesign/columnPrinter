@@ -14,7 +14,7 @@ This applicaiton represents a solution to a coding challenge. It takes a string 
 >
 > Becomes
 >  
-    `Four score  
+    Four score  
     and seven  
     years ago  
     our fathers  
@@ -30,4 +30,4 @@ This applicaiton represents a solution to a coding challenge. It takes a string 
     proposition  
     that all men  
     are created  
-    equal`  
+    equal  
